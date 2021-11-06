@@ -14,3 +14,13 @@ Want to know the newest update messages?
 [![Telegram](https://img.shields.io/static/v1?label=Update%20Messages&message=GBCLStudio%27s%20Update%20information&color=blue&style=for-the-badge&labelColor=green&logo=telegram)](https://t.me/gbclstudio_news)
 
 You can also know these on [![Discord](https://img.shields.io/discord/879563083616489502?label=Discord&logo=discord&style=for-the-badge)](https://discord.com/channels/879563083616489502/)
+
+# Donate us
+
+We are a NPO,so we need much money to buy servers.But now we have a problem:we don't have enough money!Can you [help us?](https://afdian.net/@GBCLstudio)
+
+# We offer you!
+
+Want to join us?Want to debug with author?Join us just now!We wait for your offer letter all of the time!Please send it to [this email](mailto:aries@gcxs.fun)!
+
+If you join us,we can believe you can stay with us happily!
