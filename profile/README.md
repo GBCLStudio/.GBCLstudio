@@ -12,3 +12,5 @@ As we all know,a good studio must has some great projects and satisfactory servi
 
 Want to know the newest update messages?
 [![Telegram](https://img.shields.io/static/v1?label=Update%20Messages&message=GBCLStudio%27s%20Update%20information&color=blue&style=for-the-badge&labelColor=green&logo=telegram)](https://t.me/gbclstudio_news)
+
+You can also know these on [![Discord](https://img.shields.io/discord/879563083616489502?label=Discord%20%E6%9C%8D%E5%8A%A1%E5%99%A8&logo=discord&style=for-the-badge)](https://discord.com/channels/879563083616489502/)
