@@ -17,7 +17,7 @@ You can also know these on [![Discord](https://img.shields.io/discord/8795630836
 
 # Donate us
 
-We are a [NPO](https://wikipedia.org/wiki/%E9%9D%9E%E7%87%9F%E5%88%A9%E7%B5%84%E7%B9%94),so we need much money to buy servers.But now we have a problem:we don't have enough money!Can you [help us?](https://afdian.net/@GBCLstudio)
+We are a [NPO](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%87%9F%E5%88%A9%E7%B5%84%E7%B9%94),so we need much money to buy servers.But now we have a problem:we don't have enough money!Can you [help us?](https://afdian.net/@GBCLstudio)
 
 # We offer you!
 
