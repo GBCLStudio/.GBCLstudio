@@ -4,6 +4,9 @@
 
 Hello!We are a studio of Internet Technology.If you want to visit our official site,please [click here](https://gbclstudio.cn).
 
+![GBCLstudio GitHub stats](https://github-readme-stats.vercel.app/api?username=GBCLstudio&show_icons=true&theme=radical)
+
+
 # Our Services
 
 As we all know,a good studio must has some great projects and satisfactory service,we know this is important,so we have a [Minecraft BE server](https://mc,gbclstudio.cn), a [fast pictures bed](https://pic.gbclstudio.cn), a [search service](https://search.gbclstudio.cn) and so on!
