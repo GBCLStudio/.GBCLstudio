@@ -7,7 +7,7 @@ Hello!We are a studio of Internet Technology.If you want to visit our official s
 
 # Our Services
 
-As we all know,a good studio must has some great projects and satisfactory service,we know this is important,so we have a [Minecraft BE server](https://mc,gbclstudio.cn), a [fast pictures bed](https://pic.gbclstudio.cn), a [search service](https://search.gbclstudio.cn) and so on!
+As we all know,a good studio must has some great projects and satisfactory service,we know this is important,so we have a [Minecraft BE server](https://mc.gbclstudio.cn), a [fast pictures bed](https://pic.gbclstudio.cn), a [search service](https://search.gbclstudio.cn) and so on!
 
 
 # Update messages
